@@ -8,6 +8,6 @@
 </head>
 <body>
     <h1>Profile</h1>
-    <p>Nama : Paul Marinus Yarangga</p>
+    <p>Name : Paul Marinus Yarangga</p>
 </body>
 </html>
