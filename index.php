@@ -7,7 +7,7 @@
     <title>SAGU Ekskul Day 2</title>
 </head>
 <body>
-    <h1>SAGU EKskul Day 2</h1>
+    <h1>SAGU Ekskul Day 2</h1>
     
 </body>
 </html>
